@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798485675419",
+    "firebase_url": "https://login-register-ad3a2-default-rtdb.firebaseio.com",
+    "project_id": "login-register-ad3a2",
+    "storage_bucket": "login-register-ad3a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798485675419:android:20818ac7c01173cc90b53e",
+        "android_client_info": {
+          "package_name": "com.tanphuong.milktea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798485675419-deg671hujri8sgj5hfl42rurcdko8sd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanphuong.milktea",
+            "certificate_hash": "3ba046486bc83b533737639b0e47aba9f431617d"
+          }
+        },
+        {
+          "client_id": "798485675419-54m6pdj48ltbtsqfpic5dmgu91cla95k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_uJNDv_izPYS907YvxrFPDfmOIw9THQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798485675419-54m6pdj48ltbtsqfpic5dmgu91cla95k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
